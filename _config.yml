@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Riccardo Terrenzi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
+  bio              : "PhD Student in Artificial Intelligence at the University of Southern Denmark. My research focuses on the intersection of LLMs and Information Retrieval."
   location         : "Sønderborg, Denmark"
   employer         : "CIS - SDU"
   uri              : # URL
@@ -38,13 +38,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=6HrzE_YAAAAJ&hl=it&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-8310-1940"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  linkedin         : "www.linkedin.com/in/riccardo-terrenzi-28ba85218"
 
 
   # Repositories and software development
@@ -84,8 +85,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+  #  title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
