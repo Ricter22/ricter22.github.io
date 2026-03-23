@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Riccardo Terrenzi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Artificial Intelligence at the University of Southern Denmark. My research focuses on the intersection of LLMs and Information Retrieval."
